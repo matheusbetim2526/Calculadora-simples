@@ -13,7 +13,7 @@ O objetivo deste projeto é criar uma calculadora simples utilizando Python. O p
 
 ## Tecnologias Utilizadas
 
-- **Python 3.x**: Linguagem utilizada para a implementação da calculadora.
+- **Python 3.x**: A Linguagem utilizada para a implementação da calculadora.
 - **Git**: Para controle de versão e gerenciamento do código fonte.
 
 ## Como Executar
